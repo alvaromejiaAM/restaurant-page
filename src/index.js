@@ -1,8 +1,4 @@
-import createBody from "./body";
-import createHeader from "./header";
-import createFooter from "./footer";
+import createHome from "./home";
 
+createHome()
 
-createHeader()
-createBody()
-createFooter()

@@ -8,6 +8,7 @@
     headerRestName.innerText = "Babaro's Restaurant";
     header.appendChild(headerRestName);
     content.appendChild(header);
+    
   //body
     const body = document.createElement('div');
     body.classList = 'body';

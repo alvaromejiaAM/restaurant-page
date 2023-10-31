@@ -1,7 +1,6 @@
-const content = document.querySelector('#content');
-
   //Create body
   function createBody(){
+    const content = document.querySelector('#content');
     const body = document.createElement('div');
     body.classList = 'body';
     const bodyDesc = document.createElement('p');
